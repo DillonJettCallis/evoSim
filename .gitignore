@@ -1,0 +1,7 @@
+#IntelliJ
+.idea
+*.iml
+
+#Build
+node_modules
+public/**/*.js

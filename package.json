@@ -1,0 +1,19 @@
+{
+  "name": "microbsim",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "http-server": "^0.11.1"
+  },
+  "devDependencies": {
+    "typescript": "^2.9.2"
+  },
+  "scripts": {
+    "serve": "http-server -c-1",
+    "watch": "tsc -w",
+    "build": "tsc"
+  },
+  "author": "",
+  "license": "ISC"
+}
